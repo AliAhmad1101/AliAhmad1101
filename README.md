@@ -54,18 +54,6 @@ Check Repo.
 
 ---
 
-## Why Griffin CSS?
-
-Most frameworks prioritize adding more.
-
-Griffin CSS prioritizes refining what matters.
-
-Built around consistency, readability, and thoughtful defaults, Griffin CSS helps developers create modern websites without unnecessary complexity.
-
-Whether you're building a landing page, dashboard, portfolio, or web application, Griffin CSS provides clean, reusable components designed to speed up development while maintaining visual quality.
-
----
-
 
 # 🚀 What I Enjoy Building
 
@@ -145,30 +133,6 @@ Rich Experience
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AliAhmad1101&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAhmad1101&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🎯 Current Focus
 
 ```text
@@ -181,21 +145,6 @@ Rich Experience
 🌍 Contributing to Open Source
 ```
 
----
-
-# 💭 Development Philosophy
-
-> **Great software isn't defined by the number of features it has.**
->
-> **It's defined by how effortless it feels to use.**
-
-Every project I build follows the same principles:
-
-- Keep it simple.
-- Design with intention.
-- Optimize for performance.
-- Build for maintainability.
-- Never stop refining.
 
 ---
 
