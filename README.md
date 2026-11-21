@@ -23,153 +23,26 @@ My work revolves around creating interfaces that developers love working with an
 
 ---
 
-<div align="center">
+## 🦅 Featured Products
 
-| 🎨 Design First | ⚡ Performance | 💙 Simplicity | 🚀 Quality |
-|:---------------:|:-------------:|:-------------:|:----------:|
-| Beautiful Interfaces | Fast Experiences | Clean Architecture | Production Ready |
-
-</div>
-
----
-
-# 🦅 Featured Product
-
-<div align="center">
-
-# Griffin CSS
-
-### *A modern CSS framework built for elegant interfaces.*
-
-<a href="https://griffin-css.netlify.app">
-View Website.
-</a>
-
- 
-<a href="https://github.com/AliAhmad1101/GriffinCSS">
-Check Repo.
-</a>
-
-</div>
+- **[Griffin CSS](https://griffin-css.netlify.app)**  
+  A CSS framework with 130+ components, dark mode, responsive grid, and beautiful design tokens. Drop in one line and start building.
+- **[Compose](https://github.com/FunLogic-Studios/Compose)**  
+  A focused desktop design toolkit for creating color palettes, typography systems, wireframes, and user flows.
+- **[KINEX.js](https://github.com/KINEX-js/KINEX.js)**  
+  A lightweight, framework-independent JavaScript library featuring reusable UI components, animations and interactive effects for web development.
 
 ---
 
+## 📫 Let’s Connect
 
-# 🚀 What I Enjoy Building
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-## 🎨
-
-### UI / UX
-
-Modern Interfaces
-
-Design Systems
-
-Responsive Layouts
-
-</td>
-
-<td align="center" width="33%">
-
-## 💻
-
-### Frontend
-
-Interactive Websites
-
-Reusable Components
-
-Performance Focused
-
-</td>
-
-<td align="center" width="33%">
-
-## 🤖
-
-### Game Development
-
-3D Games
-
-Visual Storytelling
-
-Rich Experience
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# ⚙️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java"/>
-
-<br><br>
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```text
-🎨 Creating Better UI Systems
-
-⚡ Building Modern Web Experiences
-
-📚Asrtronomy & Science writing
-
-🌍 Contributing to Open Source
-```
-
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/AliAhmad1101">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
-</div>
+| 🌐 Website | 💼 LinkedIn | ⚫️ Instagram | 🐙 GitHub | 📧 Email |
+| :----------: | :--------: | :--------: | :-------: | :------: |
+| [Portfolio](https://ali-ahmad-khan.netlify.app) | [Connect](https://www.linkedin.com/in/ali-ahmad-khan-005415340) | [@aliahmadk](https://www.instagram.com/the_history_buff._) | [@AliAhmad1101](https://github.com/AliAhmad1101) | [contact@me](mailto:ali.ahmad.khan2112@gmail.com) |
 
 ---
 
 <div align="center">
-
-## ⭐ If you like my work...
-
-**Give Griffin CSS a star.**
-
-Every star, suggestion, issue, and contribution motivates me to build better products for the community.
-
-<br>
 
 ### **Design beautifully. Build confidently.**
 
